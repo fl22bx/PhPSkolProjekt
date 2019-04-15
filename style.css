@@ -1,0 +1,145 @@
+.registerevent {
+	  background-color:rgba(159, 165, 159, .9);
+    padding: 10px;
+  	position: absolute;
+ 	top:30%;
+    left:30%;
+  	overflow: auto;
+
+
+}
+
+.closeevent {
+	float:right;
+
+}
+
+.eventdet {
+	background-color: rgba(136, 170, 155, .9) !important;
+		width: 40%;
+		min-height: 40%;
+			overflow: auto;
+}
+.eventdet p {
+	margin: 0px;
+	padding: 0px;
+	font-size: 1.2em;
+
+}
+
+.event0 {
+	opacity: 0.2;
+	display: inline;
+}
+
+.eventCalc {
+	display: inline;
+}
+
+.li {
+	    display: inline-block;
+	    list-style-type: none;
+	    text-align: center;
+	    width: 12%;
+	    margin:2px;
+}
+
+.weekdays {
+	background-color: grey;
+	color: white;
+	padding-bottom:30px;
+	padding-top: 30px
+	margin: 0px:;
+}
+
+.days  {
+	background-color: lightgrey;
+	margin: 0px;
+	min-height:400px;
+}
+
+.day {
+	min-height: : 40px;
+	margin-top: 10px;
+	border: 1px solid black;
+	background-color: white;
+}
+
+.dayName {
+		padding-top: 30px;
+}
+
+.add {
+	padding-right: 5px;
+	padding-top:5px;
+	float: right;
+	font-size: 20px;
+
+}
+
+ul {
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+.dateNumber {
+	color: red;
+	font-size: 30px;
+	float: left;
+	font-weight: bold;
+	margin: 0px;
+	padding: 5px;
+
+}
+
+.event {
+	padding-top:20px;
+}
+
+.calendar {
+	margin: auto;
+	margin-top: -50px;
+	width: 80%;
+	overflow: visible;
+
+}
+
+.calendar h1 {
+	display: inline;
+}
+
+.next {
+	display: inline;
+	font-size: 2em;
+	padding: 20px;
+
+}
+
+.form {
+	float: right;
+}
+
+
+.roundate {
+	display: inline-block;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	color: white;
+	padding: 5px;
+	font-size: 20px;
+	clear: right;
+}
+
+a:link {
+    text-decoration: none;
+       color: black;
+}
+
+a:visited {
+    text-decoration: none;
+        color: black;
+}
+
+
